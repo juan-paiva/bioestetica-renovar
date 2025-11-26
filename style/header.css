@@ -1,0 +1,32 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    align-items: center;
+}
+
+body {
+    width: 900px;
+    height: 900px; 
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/5879823-abstract-soft-rosa-background-modern-and-clean-landing-page-concept-with-pastel-color-gratis-vetor.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.container_header {
+  display: flex;
+  justify-content: first baseline;
+  margin: 50px; 
+}
+
+.container_img {
+    padding: 0%;
+    padding-left: 365px;
+}
+
+article {
+    color: rgb(250, 43, 215);
+}
